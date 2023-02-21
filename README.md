@@ -1,2 +1,2 @@
 # IBM-Learning
-learning materials and practice on IBM Data Science 
+Learning materials and practices on IBM Data Science Professional Certificate on Coursera
